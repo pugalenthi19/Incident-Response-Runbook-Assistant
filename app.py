@@ -770,7 +770,7 @@ def render_about_page():
 
     st.divider()
     st.subheader("GitHub Repository")
-    st.write("_Add your repository link here._")
+    st.write("https://github.com/pugalenthi19/Incident-Response-Runbook-Assistant")
 
 
 # ============================================================
